@@ -8,7 +8,7 @@ sudo apt update && sudo apt upgrade;
 sudo apt install -y git lsub;
 
 # git 
-git clone https://github.com/ctm6100/vesc.git
+git clone https://github.com/382-19plu-1/vesc.git
 
 # move the file
 mv ./vesc/vesc ~/catkin_ws/src
